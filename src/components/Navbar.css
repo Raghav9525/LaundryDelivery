@@ -1,0 +1,13 @@
+/* Navbar.css */
+#nav-link1 {
+
+    color: rgb(56, 182, 255); /* Default link color */
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none; /* Optional: removes the underline */
+  }
+  
+  #nav-link1:hover {
+    color: blue; /* Hover color */
+  }
+  
