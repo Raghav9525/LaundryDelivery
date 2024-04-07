@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-.env
 
 # testing
 /coverage
@@ -30,5 +29,4 @@ yarn-error.log*
 /laundry.sql
 
 /mostSimilarWord.js
-/backend
 
